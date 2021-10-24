@@ -3,4 +3,4 @@ FROM alpine
 
 ENTRYPOINT [ "echo" ]
 
-CMD [ "hello, world!" ]
+CMD [ "hello, test!" ]
